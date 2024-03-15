@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(150, 184, 184);
+}
+
+ 
+
+.main {
+    width: 400px ;
+    height: 400px;
+    border: 3px solid blue;
+    background-image: url(https://i.gifer.com/Yzg5.gif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: self-end;
+    box-shadow: 0px 0px 40px 20px rgb(83, 83, 168);
+    
+    
+}
+
+
+
